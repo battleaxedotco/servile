@@ -24,18 +24,22 @@ https://battleaxe.dev/servile/paddle-timelord.png
 
 ## Homepage videos
 
+### Rubberhose
 ```html
 <video width="100%" src="https://battleaxe.dev/servile/homepage-rubberhose.mp4" autoplay loop muted playsinline />
 ```
 
-
-<video width="50%" src="https://battleaxe.dev/servile/homepage-rubberhose.mp4" autoplay loop muted playsinline />
-<br/>
-
----
-
+### Overlord
 ```html
 <video width="100%" src="https://battleaxe.dev/servile/homepage-overlord.mp4" autoplay loop muted playsinline />
 ```
 
-<video width="50%" src="https://battleaxe.dev/servile/homepage-overlord.mp4" autoplay loop muted playsinline />
+### Anubis
+```html
+<video width="100%" src="https://battleaxe.dev/servile/homepage-anubis.mp4" autoplay loop muted playsinline />
+```
+
+### Timelord
+```html
+<video width="100%" src="https://battleaxe.dev/servile/homepage-timelord.mp4" autoplay loop muted playsinline />
+```
