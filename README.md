@@ -4,21 +4,28 @@ Quick and dirty file host for elements on [battleaxe.co](https://battlexe.co).
 
 ## Paddle icons
 
-```
+```url
 https://battleaxe.dev/servile/paddle-rubberhose.png
 ```
+
 ![rubberhose](https://battleaxe.dev/servile/paddle-rubberhose.png)
-```
+
+```url
 https://battleaxe.dev/servile/paddle-overlord.png
 ```
+
 ![overlord](https://battleaxe.dev/servile/paddle-overlord.png)
-```
+
+```url
 https://battleaxe.dev/servile/paddle-anubis.png
 ```
+
 ![anubis](https://battleaxe.dev/servile/paddle-anubis.png)
-```
+
+```url
 https://battleaxe.dev/servile/paddle-timelord.png
 ```
+
 ![timelord](https://battleaxe.dev/servile/paddle-timelord.png)
 
 
