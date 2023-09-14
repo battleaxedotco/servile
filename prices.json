@@ -2,37 +2,37 @@
   "discounts": [
     {
       "id": "dsc_01h9zrjgdaxkpe5s15nvb2s887",
-      "description": "30% off",
+      "description": "30% off for cyber week",
       "discount": "30.00",
       "type": "percentage",
       "start_date": "2022-11-28T00:00:00Z",
-      "end_date": "2022-12-04T00:00:00Z"
+      "end_date": "2024-12-04T00:00:00Z"
     }
   ],
-  "prices": [
-    {
-      "id": "pri_01h9zg87jhvapgkbwvkmkk5hck",
-      "price": "20.50"
-    },
-    {
-      "name": "Timelord",
-      "id": "pri_01h7jb6nxqbhkhqfg1w5myqfhd",
-      "price": "45.00"
-    },
-    {
-      "name": "Anubis",
-      "id": "pri_01h7jb3z5a4zkj97t1wj62mkq8",
-      "price": "25.00"
-    },
-    {
-      "name": "Rubberhose 3",
-      "id": "pri_01h7jacqjse1pmpds97q8aetzk",
-      "price": "65.00"
-    },
-    {
+  "prices": {
+    "pri_01h7gcp07yacazx9rs35sgeryd": {
       "name": "Overlord",
-      "id": "pri_01h7gcp07yacazx9rs35sgeryd",
-      "price": "55.00"
+      "imageUrl": "https://battleaxe.dev/servile/paddle-overlord.png",
+      "productUrl": "https://battleaxe.co/overlord",
+      "price": 55.00
+    },
+    "pri_01h7jacqjse1pmpds97q8aetzk": {
+      "name": "Rubberhose 3",
+      "imageUrl": "https://battleaxe.dev/servile/paddle-rubberhose.png",
+      "productUrl": "https://battleaxe.co/rubberhose",
+      "price": 65.00
+    },
+    "pri_01h7jb3z5a4zkj97t1wj62mkq8": {
+      "name": "Anubis",
+      "imageUrl": "https://battleaxe.dev/servile/paddle-anubis.png",
+      "productUrl": "https://battleaxe.co/anubis",
+      "price": 25.00
+    },
+    "pri_01h7jb6nxqbhkhqfg1w5myqfhd": {
+      "name": "Timelord",
+      "imageUrl": "https://battleaxe.dev/servile/paddle-timelord.png",
+      "productUrl": "https://battleaxe.co/timelord",
+      "price": 25.00
     }
-  ]
+  }
 }
