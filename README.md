@@ -46,6 +46,11 @@ https://battleaxe.dev/servile/paddle-timelord.png
 <video width="100%" src="https://battleaxe.dev/servile/homepage-anubis.mp4" autoplay loop muted playsinline />
 ```
 
+### Anubis 2024
+```html
+<video width="100%" src="https://battleaxe.dev/servile/homepage-anubis2024.mp4" autoplay loop muted playsinline />
+```
+
 ### Timelord
 ```html
 <video width="100%" src="https://battleaxe.dev/servile/homepage-timelord.mp4" autoplay loop muted playsinline />
