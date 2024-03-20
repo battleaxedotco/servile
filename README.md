@@ -6,18 +6,21 @@ Quick and dirty file host for elements on [battleaxe.co](https://battleaxe.co/).
 ```url
 https://battleaxe.dev/servile/logotype_white.png
 ```
+```url
+https://battleaxe.dev/servile/logotype_white.svg
+```
 
 ![rubberhose](https://battleaxe.dev/servile/logotype_white.png)
 ```url
-https://battleaxe.dev/servile/logotype_lightgrey.png
+https://battleaxe.dev/servile/logotype_lightGrey.png
 ```
 
 ![rubberhose](https://battleaxe.dev/servile/logotype_lightgrey.png)
 ```url
-https://battleaxe.dev/servile/logotype_grey.png
+https://battleaxe.dev/servile/logotype_darkGrey.png
 ```
 
-![rubberhose](https://battleaxe.dev/servile/logotype_grey.png)
+![rubberhose](https://battleaxe.dev/servile/logotype_darkGrey.png)
 ```url
 https://battleaxe.dev/servile/logotype_black.png
 ```
