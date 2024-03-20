@@ -1,6 +1,29 @@
 # Servile
 
-Quick and dirty file host for elements on [battleaxe.co](https://battlexe.co).
+Quick and dirty file host for elements on [battleaxe.co](https://battleaxe.co/).
+
+## Logotypes
+```url
+https://battleaxe.dev/servile/logotype_white.png
+```
+
+![rubberhose](https://battleaxe.dev/servile/logotype_white.png)
+```url
+https://battleaxe.dev/servile/logotype_lightgrey.png
+```
+
+![rubberhose](https://battleaxe.dev/servile/logotype_lightgrey.png)
+```url
+https://battleaxe.dev/servile/logotype_grey.png
+```
+
+![rubberhose](https://battleaxe.dev/servile/logotype_grey.png)
+```url
+https://battleaxe.dev/servile/logotype_black.png
+```
+
+![rubberhose](https://battleaxe.dev/servile/logotype_black.png)
+
 
 ## Paddle icons
 
