@@ -14,15 +14,24 @@ https://battleaxe.dev/servile/logotype_white.svg
 ```url
 https://battleaxe.dev/servile/logotype_lightGrey.png
 ```
+```url
+https://battleaxe.dev/servile/logotype_lightGrey.svg
+```
 
 ![rubberhose](https://battleaxe.dev/servile/logotype_lightgrey.png)
 ```url
 https://battleaxe.dev/servile/logotype_darkGrey.png
 ```
+```url
+https://battleaxe.dev/servile/logotype_darkGrey.svg
+```
 
 ![rubberhose](https://battleaxe.dev/servile/logotype_darkGrey.png)
 ```url
 https://battleaxe.dev/servile/logotype_black.png
+```
+```url
+https://battleaxe.dev/servile/logotype_black.svg
 ```
 
 ![rubberhose](https://battleaxe.dev/servile/logotype_black.png)
