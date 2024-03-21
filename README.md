@@ -20,13 +20,13 @@ https://battleaxe.dev/servile/logotype_lightGrey.svg
 
 ![rubberhose](https://battleaxe.dev/servile/logotype_lightgrey.png)
 ```url
-https://battleaxe.dev/servile/logotype_darkGrey.png
+https://battleaxe.dev/servile/logotype_grey.png
 ```
 ```url
-https://battleaxe.dev/servile/logotype_darkGrey.svg
+https://battleaxe.dev/servile/logotype_grey.svg
 ```
 
-![rubberhose](https://battleaxe.dev/servile/logotype_darkGrey.png)
+![rubberhose](https://battleaxe.dev/servile/logotype_grey.png)
 ```url
 https://battleaxe.dev/servile/logotype_black.png
 ```
