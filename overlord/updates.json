@@ -1,6 +1,6 @@
 [
   {
-    "type": "new_update",
+    "date": "2020-01-01",
     "version": "1.2.3",
     "releaseNotes": "Bug fixes and performance improvements.",
     "downloadUrl": "https://example.com/update.zip"
