@@ -1,8 +1,8 @@
 [
   {
-    "date": "2020-01-01",
-    "version": "1.2.3",
+    "date": "2024-06-02",
+    "version": "0.2.0",
     "releaseNotes": "Bug fixes and performance improvements.",
-    "downloadUrl": "https://example.com/update.zip"
+    "downloadUrl": "https://battleaxe.dev/servile/logos.zip"
   }
 ]
