@@ -1,0 +1,8 @@
+[
+  {
+    "type": "new_update",
+    "version": "1.2.3",
+    "releaseNotes": "Bug fixes and performance improvements.",
+    "downloadUrl": "https://example.com/update.zip"
+  }
+]
