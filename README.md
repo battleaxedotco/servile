@@ -90,3 +90,6 @@ https://battleaxe.dev/servile/paddle-timelord.png
 ```html
 <video width="100%" src="https://battleaxe.dev/servile/homepage-timelord.mp4" autoplay loop muted playsinline />
 ```
+
+## EULA
+[End user license agreement](./Battle_Axe-EULA_2024.pdf)
